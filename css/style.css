@@ -114,7 +114,7 @@ body a{
 	background: linear-gradient(to bottom,  rgba(50,58,62,1) 0%,rgba(46,54,58,1) 100%);
 }
 .top-nav ul li  a:hover,.top-nav ul li.active a {
-	background: #23aeac;
+	background: #8298c1;
 }
 ul.social-in {
   text-align: right;
@@ -255,7 +255,7 @@ p.footer-class a:hover{
 .b-from-left{
 	position: relative;
 	left: -100%;
-	background:rgba(45, 184, 183, 0.81);
+	background: #8298c1;
 	background-size: 100% 100%;
 	top: 0px;
 	margin: 0;
@@ -638,7 +638,7 @@ h4.author{
 	  float: left;
   width: 79.38%;
   font-size: 1em;
-  background: #55bab7;
+  background: #8298c1;
   color: #fff;
   padding: 1.5em;
   font-style: italic;
